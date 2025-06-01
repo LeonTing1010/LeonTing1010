@@ -19,9 +19,10 @@ I'm a builder at heart — always experimenting, often iterating, and constantly
 ---
 
 ### 🤝 Let’s Connect
-- 📱 WeChat: **LeonTing1010**
-- 💬 Discord: [Join the community](https://discord.gg/n5kjgWr6)
-- ☕ Like what I’m building? Support here:
+- 💬 Discord: [Join the community](https://discord.gg/n5kjgWr6)  
+- 🐦 X / Twitter: [@LEONTING2022](https://x.com/LEONTING2022)
+- 📱 WeChat: **LeonTing1010**  
+- ☕ Support my work:
 - [![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lt1010)
 
 ---
