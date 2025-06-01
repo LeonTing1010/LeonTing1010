@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Leon Ting
 
-<!--
-**LeonTing1010/LeonTing1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a builder at heart — always experimenting, often iterating, and constantly learning.
 
-Here are some ideas to get you started:
+🔍 I’m currently exploring the intersection of:
+- 🧠 AI + 🛠️ Tool-based thinking  
+- 🕹️ Agent-Native workflows  
+- 🌐 Web3, automation, and decentralized systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I believe the best tools are born from messy problems — and I love turning those into elegant, scalable solutions.
+
+---
+
+### 🧩 What I do
+- Break down complex problems into atomic actions  
+- Build tools and agents that automate workflows  
+- Explore how technology can create more personal, meaningful experiences  
+
+---
+
+### 🤝 Let’s Connect
+- 📱 WeChat: **LeonTing1010**  
+- 💬 Discord: [Join the community](https://discord.gg/n5kjgWr6)  
+- ☕ Like what I’m building? Support here: [ko-fi.com/lt1010](https://ko-fi.com/lt1010)
+
+---
+
+> “Stay curious. Build boldly. Learn from everything.”
