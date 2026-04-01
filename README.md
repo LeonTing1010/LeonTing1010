@@ -8,4 +8,4 @@ AI forges `.tap.js` once — then runs forever, zero tokens at runtime.
 ### Connect
 - X: [@LEONTING2022](https://x.com/LEONTING2022)
 - WeChat: LeonTing1010
-- [Buy me a coffee](https://ko-fi.com/lt1010)
+- [Buy me a coffee](https://ko-fi.com/leonting1010)
