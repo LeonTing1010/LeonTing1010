@@ -1,8 +1,8 @@
 ## Leon Ting
 
-Building [**Tap**](https://github.com/LeonTing1010/tap) — a universal protocol for AI to operate any interface.
+Building [**Tap**](https://leonting1010.github.io/tap/) — programs beat prompts.
 
-8 kernel primitives · 16 stdlib operations · 77 taps across 40 sites
+8 core operations · 17 built-in operations · [106 skills across 50 sites](https://github.com/LeonTing1010/tap-skills)
 AI forges `.tap.js` once — then runs forever, zero tokens at runtime.
 
 ### Connect
