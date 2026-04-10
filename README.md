@@ -1,23 +1,125 @@
-## Leon Ting
+<div align="center">
 
-Building [**Tap**](https://taprun.dev) — programs beat prompts.
+<!-- Custom SVG Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Leon%20Ting&fontSize=72&fontColor=e6edf3&fontAlignY=35&desc=Systems%20builder%20·%20Rust%20·%20Go%20·%20TypeScript&descSize=18&descColor=7d8590&descAlignY=55&animation=fadeIn" width="100%" />
 
-8 core operations · 17 built-in operations · [133 skills across 58 sites](https://github.com/LeonTing1010/tap-skills)
-AI forges `.tap.js` once — then runs forever, zero tokens at runtime.
+<br/>
 
-### What is Tap?
+<!-- Typing SVG -->
+<a href="https://taprun.dev">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=programs+beat+prompts;forge+once%2C+run+forever+at+%240" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## `$ whoami`
+
+Systems engineer turning browser chaos into deterministic programs. I build tools that eliminate repetitive work — the kind where AI spends tokens doing what a 12-line script could do forever.
+
+Based in the terminal. Thinking in protocols. Shipping in Rust, Go, and TypeScript.
+
+<br/>
+
+## `$ ls ~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="20" /> Flagship
+
+<a href="https://github.com/LeonTing1010/tap">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTing1010&repo=tap&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+</a>
+
+**Tap** — AI compiles interface ops into `.tap.js` programs.
+MCP-native. 3 runtimes. Forge once, run forever.
 
 ```
-Claude Code ←→ MCP ←→ Tap ←→ Browser / Desktop / API
+Claude Code ←→ MCP ←→ Tap ←→ Browser
 ```
 
-Tap is a protocol + toolchain for AI to turn interface operations into deterministic programs. Forge once, run forever at $0.
+`200+ skills` · `60+ sites` · `$0/run`
 
-- 🔧 [Tap CLI + MCP Server](https://github.com/LeonTing1010/tap) — core toolchain
-- 📦 [133 Community Skills](https://github.com/LeonTing1010/tap-skills) — ready-to-use automations
-- 📖 [Documentation](https://taprun.dev) — getting started, API reference
+</td>
+<td width="50%" valign="top">
 
-### Connect
-- X: [@LEONTING2022](https://x.com/LEONTING2022)
-- WeChat: LeonTing1010
-- [Buy me a coffee](https://ko-fi.com/leonting1010)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="20" /> Ecosystem
+
+<a href="https://github.com/LeonTing1010/tap-skills">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTing1010&repo=tap-skills&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/LeonTing1010/mole">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTing1010&repo=mole&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `$ cat tech.stack`
+
+<div>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<!-- Tools & Platforms -->
+<br/><br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/sing--box-0d1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+</div>
+
+<br/>
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LeonTing1010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LeonTing1010&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=E6EDF3&sideLabels=7D8590&dates=7D8590" height="170" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonTing1010&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&area_color=1f6feb" width="95%" />
+</div>
+
+<br/>
+
+## `$ netstat -connect`
+
+<div align="center">
+
+<a href="https://taprun.dev">
+<img src="https://img.shields.io/badge/taprun.dev-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff" />
+</a>
+<a href="https://x.com/LEONTING2022">
+<img src="https://img.shields.io/badge/@LEONTING2022-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" />
+</a>
+<a href="https://ko-fi.com/leonting1010">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0d1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=LeonTing1010&color=161b22&style=for-the-badge&label=VISITORS" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer" width="100%" />
