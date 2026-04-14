@@ -93,12 +93,6 @@ Claude Code ←→ MCP ←→ Tap ←→ Browser
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeonTing1010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LeonTing1010&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonTing1010&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LeonTing1010&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=E6EDF3&sideLabels=7D8590&dates=7D8590" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LeonTing1010&theme=default&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=LeonTing1010&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
